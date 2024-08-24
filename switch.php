@@ -1,4 +1,3 @@
-switch.php
 <?php
 //
 $i = 1;
