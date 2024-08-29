@@ -8,5 +8,5 @@ function myFuncStringAdd(string $s1, string $s2) : string
     //
     return $ret;
 }
-//
+//s
 echo myFuncStringAdd("make", " function");
